@@ -5,7 +5,7 @@
 
 Напишите запрос к учебной базе данных, который вернёт процентное отношение общего размера всех индексов к общему размеру всех таблиц.
 
-![SQL3_1](https://github.com/dvolkov15/SQL_Index/blob/main/SQL3_1.png)
+![SQL3_1_1](https://github.com/dvolkov15/SQL_Index/blob/main/SQL3_1_1.png)
 
 
 Задание 2
